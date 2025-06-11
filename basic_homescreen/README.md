@@ -2,7 +2,7 @@
 
 # MediEase
 
-A Flutter medical consultation app. 🩺
+A Flutter medical consultation app Basic HomePAge UI Using Flutter Basic Widgets. 🩺
 
 ![App Demo](assets/demo.gif)
 
