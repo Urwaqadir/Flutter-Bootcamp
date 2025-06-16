@@ -11,4 +11,4 @@ StudyBuddie is a beautifully designed Flutter application that helps students co
 - 🚀 Interactive Onboarding Screens
 - 📚 Course Purchase
 
-![App Demo](assets/demo.gif)
+▶️ [Watch Demo Video](https://github.com/Urwaqadir/Flutter-Bootcamp/blob/main/studybudyy/assets/demo.mp4)
