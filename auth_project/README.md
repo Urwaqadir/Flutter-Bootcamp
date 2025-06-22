@@ -1,16 +1,37 @@
-# auth_project
+# 🛍️ Shopee
 
-A new Flutter project.
+Shopee is a clean and modern **E-commerce Flutter app** manage authentication using Firebase. Designed with user experience in mind, Shopee is responsive.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Authentication (Signup & Login)
+- 🎨 Clean and modern UI for products and search
+- 🚪 Secure Logout and Auth redirection
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔧 Tech Stack
+
+- **Flutter** (UI Toolkit)
+- **Firebase Auth** (User Authentication)
+- **Dart** (Programming Language)
+
+---
+
+## 📸 Screenshots
+
+
+---
+▶️ [Watch Demo Video](https://github.com/Urwaqadir/Flutter-Bootcamp/blob/main/auth_project/assets/shopee.mp4)
+
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/Urwaqadir/Flutter-Bootcamp.git
+   cd shopee.
